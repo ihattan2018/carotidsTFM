@@ -1,9 +1,9 @@
 ## TFM -  Deep Learning for the Detection and Characterization of the Carotid Artery in Ultrasound Imaging
 
 ### Links:
- * Guide TFM: https://github.com/DataScienceUB/PFM/blob/master/README.md
- * Wrapper que utilitza el Tiramisu per a input/output, carregar el model, etc.:
-https://github.com/MarcBS/multimodal_keras_wrapper
+ * [Guide TFM](https://github.com/DataScienceUB/PFM/blob/master/README.md)
+ * [Wrapper](https://github.com/MarcBS/multimodal_keras_wrapper) que utilitza el Tiramisu per a input/output, carregar el model, etc.
+
  
 
 ### Calendar 
