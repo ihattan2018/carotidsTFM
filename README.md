@@ -2,6 +2,8 @@
 
 ### Links:
  * Guide TFM: https://github.com/DataScienceUB/PFM/blob/master/README.md
+ * Wrapper que utilitza el Tiramisu per a input/output, carregar el model, etc.:
+https://github.com/MarcBS/multimodal_keras_wrapper
  
 
 ### Calendar 
