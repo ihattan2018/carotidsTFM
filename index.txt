@@ -1,0 +1,42 @@
+
+------------------------INDEX------------------------
+1. Introduction
+	What is the project about? 
+        Why is this an important research question? 
+        Which are our objectives?
+        How will we try to achivie them?
+2. Literature Review
+        Explanation of the methods we will use.
+            Why/how they work? (from where we start to explain???) (i.e. if I want to explain a Fully Conected should I talk first about CNN?)
+            Why  we use them istead of others
+
+3. Methodology
+        Explanation how we implemented the methods. Validation metrics we use, how we tune paramaters,etc
+
+4. Discussion of Results
+
+5. Conclusions
+
+6. References 
+
+7. Appendix (for example, Description of Datasets; code)
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+2 Possible ways to approach the project:
+        
+    COMMUN PART:
+        * Use Bea's code with weights already trained to segmentate our data. 
+            * Validation using dataset patients
+        * Use Bea's code to train the network with only 2 labels.
+    
+    OPTION 1:
+        * Research for other state of the art methods and try to implement them. Compare the results.
+    
+    OPTION 2:
+        * Cross the segmentated data with the patients data to exctract conclusions.
+            --> Predict death?
+            --> Predict future state of the placa?
+            --> Search for factors correlated to the placa state??
+    
