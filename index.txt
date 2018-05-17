@@ -30,6 +30,7 @@
         * Use Bea's code with weights already trained to segmentate our data. 
             * Validation using dataset patients
         * Use Bea's code to train the network with only 2 labels.
+	* Classificar placa-> lipids, calci... Nova xarxa.
     
     OPTION 1:
         * Research for other state of the art methods and try to implement them. Compare the results.
