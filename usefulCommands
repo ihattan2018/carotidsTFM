@@ -6,7 +6,7 @@ nvidia-smi
 source activate envTFM
 
 ### correr fitxer python amb theano i keras al environment
-PYTHONPATH=/home/esarle/Desktop/env_carotids/lib/python2.7/site-packages/theano:/home/esarle/Desktop/env_carotids/lib/python2.7/site-packages/keras:/home/esarle/Desktop/codi/multimodal_keras_wrapper:/home/esarle/Desktop/codi/keras_semantic_segmentation:$PYTHONPATH python -u file.py
+PYTHONPATH=/home/esarle/miniconda2/envs/envTFM/lib/python2.7/site-packages/theano:/home/esarle/miniconda2/envs/envTFM/lib/python2.7/site-packages/keras:/home/esarle/Desktop/codi/multimodal_keras_wrapper:/home/esarle/Desktop/codi/keras_semantic_segmentation:$PYTHONPATH python -u file.py
 ### afegir abans de python THEANO_FLAGS='device=cuda' per utilitzar la GPU (no funciona de moment)
 
 ###correr un jupyter notebook desdel servidor
