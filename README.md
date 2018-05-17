@@ -18,4 +18,4 @@
 by 
 * Arnau Escapa
 * Enric Sarlé
-* Jonathan Pinyol
+* Jonatan Piñol
