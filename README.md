@@ -3,6 +3,7 @@
 ### Links:
  * [Guide TFM](https://github.com/DataScienceUB/PFM/blob/master/README.md)
  * [Wrapper](https://github.com/MarcBS/multimodal_keras_wrapper) que utilitza el Tiramisu per a input/output, carregar el model, etc.
+ * [Codi_Bea](https://github.com/beareme/keras_semantic_segmentation) implementació semantic segmentation using Tiramisu
 
  
 
