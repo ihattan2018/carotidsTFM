@@ -1,7 +1,8 @@
-NOTES sobre l' STATE of the ART - IMT segmentation
-Observació: ningú parla de la classicació del tipus de placa!!
+### Notes sobre l' State of the art- IMT segmentation
 
-Reviews:
+**Observació**: ningú parla de la classicació del tipus de placa!!
+
+#### Reviews:
 
 1-Loizou, C.P.: A review of ultrasound common carotid artery image and video segmentation techniques 
 Comparació de molts mètodes diferents.
@@ -11,7 +12,7 @@ Comparació de molts mètodes diferents.
    
 2-  Molinari, F., Zeng, G., Suri, J.S.: A state of the art review on IMT and wall segmentation techniques for carotid ultrasound.
 
-Papers:
+#### Papers:
 
 1- Molinari: Completely Automated Multiresolution Edge Snapper—A New Technique for an Accurate Carotid Ultrasound IMT Measurement.
     * Resol el problema en dos fases:
@@ -27,7 +28,6 @@ De pago. Seria interessant perque utilitza NN.
 
 5 - Bastida-Jumilla: Segmentation of the Common Carotid Artery Walls Based on a Frequency Implementation of Active Contours
     * computer vision Technique: Active contours... 
-
 
 7- Quin: An integrated method for atherosclerotic carotid plaque segmentation in ultrasound image
     * Algoritma consisteix en 3 fases! Podriem intentar aplicar-ho nosaltres!!
