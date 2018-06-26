@@ -10,7 +10,7 @@ PYTHONPATH=/home/esarle/miniconda2/envs/envTFM/lib/python2.7/site-packages/thean
 
 ###correr un jupyter notebook des del servidor
 (server console) jupyter notebook --no-browser --port=8080
-(local  console) ssh -N -L 8080:localhost:8080 usuari@161.116.84.210
+(local  console) ssh -N -L 8080:localhost:8080 usuari@xxx.xxx.xxx.xx
 
 ### deixar corrent un procés al tancar la sessió (https://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session)
 
