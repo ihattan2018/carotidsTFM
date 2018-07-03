@@ -1,22 +1,27 @@
-## TFM -  Deep Learning for the Detection and Characterization of the Carotid Artery in Ultrasound Imaging
-
-### Links:
- * [Guide TFM](https://github.com/DataScienceUB/PFM/blob/master/README.md)
- * [Wrapper](https://github.com/MarcBS/multimodal_keras_wrapper) que utilitza el Tiramisu per a input/output, carregar el model, etc.
- * [Codi_semantic_segm](https://github.com/beareme/keras_semantic_segmentation) implementació semantic segmentation using Tiramisu (implementació de Bea)
-
- 
-
-### Calendar 
-+ Feb. 16: Limit for official course enrollment.
-+ Feb. 19 - 23: Period for sending us your project priorities by grups. 
-+ Feb. 26: Assignment of projects & supervisors to student groups.
-+ Mar. 2: Limit for delivering the project proposal short document to your advisors.
-+ Jul. 1 & Set 1: Limit for final delivery of your project. 
-+ Jul. 9-20 & Set 12-28: Presentations.
+## Deep Learning for the Detection and Characterization of the Carotid Artery in Ultrasound Imaging
+	
+In this thesis, we explore the effectiveness of Deep Learning techniques in attempting to automatize and improve the diagnosis of atheroma plaques. To achieve so we tackle the following problems: ultrasound image segmentation and plaque tissue classification.
 
 
-by 
+### Datsets:
+ * [REGICOR](https://www.regicor.org)
+ * [NEFRONA](http://www.nefrona.es)
+
+
+### Procedure:
+ * Data Cleaning
+ * Automatic GT generation
+ * Data exploration
+ * Comun Carotid Artery segmentation 
+ * Tissue classification of atherosclerosi plaque 
+
+### Implementations:
+This project has been mostly implemented in python, only a part of the GT generation is implemented in MATLAB.
+For the segmentation task we used a [keras fork](https://github.com/MarcBS/keras) running on Theano. The Fully Convolutional Network implemented to explore the carotid artery is based on the [semantic segmentation in Keras](https://github.com/beareme/keras_semantic_segmentation). 
+
+For the classification of the plaque we used [keras](https://github.com/keras-team/keras) running tensorflow on the backend. 
+
+### Delivered on 03-07-2018 by:
 * Arnau Escapa
 * Enric Sarlé
 * Jonatan Piñol
