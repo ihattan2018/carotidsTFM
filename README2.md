@@ -1,6 +1,6 @@
 ## Deep Learning for the Detection and Characterization of the Carotid Artery in Ultrasound Imaging
 	
-In this thesis, we explore the effectiveness of Deep Learning techniques in attempting to automatize and improve the diagnosis of atheroma plaques. To achieve so we tackle the following problems: ultrasound image segmentation and plaque tissue classification
+In this thesis, we explore the effectiveness of Deep Learning techniques in attempting to automatize and improve the diagnosis of atheroma plaques. To achieve so we tackle the following problems: ultrasound image segmentation and plaque tissue classification.
 
 
 ### Datsets:
